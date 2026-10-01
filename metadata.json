@@ -1,0 +1,6 @@
+{
+  "name": "PocketLedger",
+  "description": "Your Money. Your Control. Offline-first personal money manager and expense tracker developed by Mohsin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
